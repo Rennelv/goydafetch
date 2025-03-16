@@ -984,4 +984,10 @@ PRESETS: dict[str, ColorProfile] = {
         "#dc0045",
         "#e0608e"
     ]),
+    
+    'goyda': ColorProfile([
+        '#FFFFFF',
+        '#0000FF',
+        '#FF0000'
+    ]),
 }
